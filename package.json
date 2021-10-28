@@ -5,12 +5,13 @@
   "dependencies": {
     "@react-spring/three": "^9.0.0-rc.3",
     "@react-spring/web": "^9.0.0-rc.3",
+    "@react-three/drei": "^7.18.0",
+    "@react-three/fiber": "^7.0.17",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "drei": "^1.5.3",
     "lerp": "^1.0.3",
-    "node-sass": "^6.0.1",
+    "node-sass": "4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-intersection-observer": "^8.28.5",
@@ -18,7 +19,7 @@
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.21",
     "sass-loader": "^12.3.0",
-    "three": "^0.120.1"
+    "three": "^0.133.1"
   },
   "scripts": {
     "start": "react-scripts start",
